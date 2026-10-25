@@ -57,7 +57,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/joshuu43/Number-Guessing-Game">Source Code</a>
+  <a href="https://github.com/joshuu43/Number-Guessing-Game">Source Code</a> .
+  <a href="https://roadmap.sh/projects/number-guessing-game">roadmap.sh Challenge</a>
 </p>
 
 ---
