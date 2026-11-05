@@ -50,14 +50,14 @@
   <a href="https://roadmap.sh/projects/unit-converter">roadmap.sh Challenge</a>
 </p>
 
-<h3 align="left">🎮 Number Guessing Game</h3>
+<h3 align="left">🎯 NumberGuessingGame CLI</h3>
 
 <p align="left">
-  A C# console project for practicing programming fundamentals.
+  An interactive command-line number guessing game built with C# and .NET 10, featuring three difficulty levels and limited attempts.
 </p>
 
 <p align="left">
-  <a href="https://github.com/joshuu43/Number-Guessing-Game">Source Code</a> .
+  <a href="https://github.com/joshuu43/Number-Guessing-Game">Source Code</a> ·
   <a href="https://roadmap.sh/projects/number-guessing-game">roadmap.sh Challenge</a>
 </p>
 
